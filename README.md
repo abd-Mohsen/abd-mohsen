@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔵Flutter Developer<br>🔴Laravel Backend Developer<br>⚛ React.js Developer<br>I am an IT engineer graduated Damascus University Faculty of ITE (AI specialization)<br><br><br>
+🔵Flutter Developer<br>🔴Laravel Backend Developer<br>⚛ React.js Developer<br>I am an IT engineer graduated from Damascus University Faculty of ITE (AI specialization)<br><br><br>
 
 
 ## 🌐 Socials:
